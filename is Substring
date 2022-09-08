@@ -1,0 +1,6 @@
+function isSubstring (phrase, part) {
+ phrase.includes ('part') 
+ {
+  return (true);
+ }
+}
